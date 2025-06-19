@@ -5,7 +5,6 @@
 -	[Data Cleaning ](#data-cleaning)
 -	[Build Dashboard or a Report using Tableau](#build-dashboard-or-a-report-using-tableau)
 -	[Tools, Software and Libraries](#tools-software-and-libraries)
--	[References](#references)
 ## Problem Statement
 ### KPI’s REQUIREMENT
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
